@@ -4,6 +4,9 @@
 
 Living synthesis of cybersecurity, acoustic physics, automation, and Discordian systems thinking. Everything here is designed to improve under stress.
 
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/56604cb9-57d2-499f-b65b-4740b7d3a786" />
+
+
 ---
 
 ### 🛠 The Reservoir
